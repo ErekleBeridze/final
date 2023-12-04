@@ -1,0 +1,35 @@
+@media(max-width:742px){
+    /* header */
+
+header{
+    display: inline-flex;
+padding: 9px 24px;
+justify-content: center;
+align-items: center;
+gap: 150px;
+}
+
+span{
+    display: block;
+}
+
+
+
+    .footer_clas2{
+    width:113px;
+    height: 80px;
+}
+
+   .HeadNav{
+    position: fixed;
+        background-color: #B53B1B;
+        top: 88px;
+        left: -100%;
+   }
+
+    
+    
+    /* home section 2 */
+
+
+   }
